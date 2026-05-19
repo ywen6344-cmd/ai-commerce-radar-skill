@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Commerce Radar"
+  short_description: "Track AI, technology, and cross-border commerce signals."
+  default_prompt: "Use this skill to generate an AI + cross-border commerce daily brief, weekly review, source audit, or business opportunity hypothesis from first-party sources."
